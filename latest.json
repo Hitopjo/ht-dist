@@ -1,0 +1,11 @@
+{
+  "version": "0.3.0",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.3.0",
+  "notes": "fix(release): drop upload-artifact — hit a persistent quota wall\n\nDeviates from the plan's stated criterion (\"installer/output/ uploaded as\na workflow artifact regardless of publish success\", 2026-08-17-auto-update.md\nTask 9) after v0.3.0's release run repeatedly failed here:\n\"Artifact storage quota has been hit... Usage is recalculated every 6-12\nhours.\" Deleting the 18 old pre-existing HiTopInvoicing-windows-* artifacts\n(~4.6GB, from desktop-build.yml, unrelated to this work) freed the actual\nstorage but the quota COUNTER itself doesn't recalculate on delete — it\nsat \"hit\" across three retries over several hours regardless.\n\nThis step was never load-bearing for the actual publish: the following\n`gh release create` step uploads the installer straight to the ht-dist\nGitHub Release via the Releases API, a completely separate mechanism from\nActions artifact storage that shares none of this quota. Removing it\navoids reproducing this exact block on every future release; the\ndownloadable-artifact convenience is lost, but the release itself is not\nweaker for it.\n",
+  "published": "2026-08-18",
+  "windows": {
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.3.0/app-setup-0.3.0.exe",
+    "sha256": "56ecda59217a9ffc75ad256811b531df5b73969eacf0b651e7e2b737f370b2ea",
+    "size": 183006232
+  }
+}
