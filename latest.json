@@ -1,11 +1,11 @@
 {
-  "version": "0.3.2",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.3.2",
-  "notes": "chore(release): bump version to 0.3.2\n\nTest release to reproduce the auto-update relaunch bug (app closes for\ninstall but doesn't reopen) with real CI-built + Inno-installed artifacts.\n",
-  "published": "2026-08-24",
+  "version": "0.3.4",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.3.4",
+  "notes": "chore(release): bump version to 0.3.4\n",
+  "published": "2026-08-27",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.3.2/app-setup-0.3.2.exe",
-    "sha256": "a8e253248cd76a9006a5b54516b7e1d4e62988b24a7d148de2133b615c039b8e",
-    "size": 182638509
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.3.4/app-setup-0.3.4.exe",
+    "sha256": "bfdb2ba863060bed3d544df49a6d582240eae4d2b20642d0c43af3ba547c8de0",
+    "size": 173077353
   }
 }
