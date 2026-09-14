@@ -1,11 +1,11 @@
 {
-  "version": "0.3.10",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.3.10",
-  "notes": "HiTop Invoicing v0.3.10",
-  "published": "2026-09-09",
+  "version": "0.3.11",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.3.11",
+  "notes": "HiTop Invoicing v0.3.11",
+  "published": "2026-09-14",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.3.10/app-setup-0.3.10.exe",
-    "sha256": "bcab7e527780bb0083e39299802906d84f98ab3a2a3baca2b50fb3a6faec15ee",
-    "size": 175301560
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.3.11/app-setup-0.3.11.exe",
+    "sha256": "8378e653098a5bfeb61871a84cf49a6c1dac906d58e2ced51fa22f1e30cb9fec",
+    "size": 175346726
   }
 }
