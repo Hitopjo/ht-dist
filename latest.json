@@ -1,11 +1,11 @@
 {
-  "version": "0.4.7",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.7",
-  "notes": "Sign-in now goes through the shared hub: use your usual username and password (or Google). Tick 'Remember me' to stay signed in.",
-  "published": "2026-10-07",
+  "version": "0.4.8",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.8",
+  "notes": "HiTop Invoicing v0.4.8",
+  "published": "2026-10-08",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.7/app-setup-0.4.7.exe",
-    "sha256": "da791f13d86d25221ad8ba1baa990f0cde54f70d0ee62485fa8a197775266765",
-    "size": 180082349
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.8/app-setup-0.4.8.exe",
+    "sha256": "4db94e396ec10dd48af043fa020daae4e0f7ca5fb4ab87e5000f490d574bcd94",
+    "size": 180196769
   }
 }
