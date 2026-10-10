@@ -1,11 +1,11 @@
 {
-  "version": "0.4.8",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.8",
-  "notes": "HiTop Invoicing v0.4.8",
-  "published": "2026-10-08",
+  "version": "0.4.9",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.9",
+  "notes": "صلاحيات تفصيلية لكل دور، ترتيب الصفحات من الإدارة، حفظ تخطيط الجداول لكل مستخدم على كل أجهزته، وسجل التعديلات في كل سجل.",
+  "published": "2026-10-10",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.8/app-setup-0.4.8.exe",
-    "sha256": "4db94e396ec10dd48af043fa020daae4e0f7ca5fb4ab87e5000f490d574bcd94",
-    "size": 180196769
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.9/app-setup-0.4.9.exe",
+    "sha256": "379db54ec64b01b8be15bb28170cc2ec901ac12bbe09f793bc1d42c482d5be0e",
+    "size": 180320593
   }
 }
