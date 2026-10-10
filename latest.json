@@ -1,11 +1,11 @@
 {
-  "version": "0.4.10",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.10",
-  "notes": "HI-TOP Hub v0.4.10",
+  "version": "0.4.11",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.11",
+  "notes": "إصلاح: خطأ «تعذر الوصول إلى تخزين الجهاز» عند التشغيل بعد التحديث 0.4.10.",
   "published": "2026-10-10",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.10/app-setup-0.4.10.exe",
-    "sha256": "6c399d44cede4e822b9835141a757fa22330dffa888f777076a4f0dad58ba5db",
-    "size": 180294732
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.11/app-setup-0.4.11.exe",
+    "sha256": "dcc2b1d27d1b1d2d521813df5c668834529bf05d0a2c49532fa898bf1144dc75",
+    "size": 180329802
   }
 }
