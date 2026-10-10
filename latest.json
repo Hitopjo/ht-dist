@@ -1,11 +1,11 @@
 {
-  "version": "0.4.9",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.9",
-  "notes": "صلاحيات تفصيلية لكل دور، ترتيب الصفحات من الإدارة، حفظ تخطيط الجداول لكل مستخدم على كل أجهزته، وسجل التعديلات في كل سجل.",
+  "version": "0.4.10",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.10",
+  "notes": "HI-TOP Hub v0.4.10",
   "published": "2026-10-10",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.9/app-setup-0.4.9.exe",
-    "sha256": "379db54ec64b01b8be15bb28170cc2ec901ac12bbe09f793bc1d42c482d5be0e",
-    "size": 180320593
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.10/app-setup-0.4.10.exe",
+    "sha256": "6c399d44cede4e822b9835141a757fa22330dffa888f777076a4f0dad58ba5db",
+    "size": 180294732
   }
 }
