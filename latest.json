@@ -1,11 +1,11 @@
 {
-  "version": "0.4.11",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.11",
-  "notes": "إصلاح: خطأ «تعذر الوصول إلى تخزين الجهاز» عند التشغيل بعد التحديث 0.4.10.",
-  "published": "2026-10-10",
+  "version": "0.4.12",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.12",
+  "notes": "HI-TOP Hub v0.4.12: Phase 4 (native tables, computed fields, notifications bell, record comments, automations and the schema history screen), the role permissions drawer, grid sort/group reordering, a batches fix and the installer's update check.",
+  "published": "2026-10-11",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.11/app-setup-0.4.11.exe",
-    "sha256": "dcc2b1d27d1b1d2d521813df5c668834529bf05d0a2c49532fa898bf1144dc75",
-    "size": 180329802
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.12/app-setup-0.4.12.exe",
+    "sha256": "ccebbc2246a34c9591591c6615c12260c8336f6f5a6daa8541c22c94fd85c1d4",
+    "size": 180382601
   }
 }
