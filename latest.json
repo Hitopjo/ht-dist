@@ -1,11 +1,11 @@
 {
-  "version": "0.4.12",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.12",
-  "notes": "HI-TOP Hub v0.4.12: Phase 4 (native tables, computed fields, notifications bell, record comments, automations and the schema history screen), the role permissions drawer, grid sort/group reordering, a batches fix and the installer's update check.",
-  "published": "2026-10-11",
+  "version": "0.4.13",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.13",
+  "notes": "Delete records and upload or remove files from the generic table screen; admin readiness screen for the migration.",
+  "published": "2026-10-12",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.12/app-setup-0.4.12.exe",
-    "sha256": "ccebbc2246a34c9591591c6615c12260c8336f6f5a6daa8541c22c94fd85c1d4",
-    "size": 180382601
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.13/app-setup-0.4.13.exe",
+    "sha256": "2a5b6ae408a0d1af32d754edc0ae7b4723074df61a236166977dc6b5dd24bd2e",
+    "size": 180408855
   }
 }
