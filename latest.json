@@ -1,11 +1,11 @@
 {
-  "version": "0.4.13",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.13",
-  "notes": "Delete records and upload or remove files from the generic table screen; admin readiness screen for the migration.",
-  "published": "2026-10-12",
+  "version": "0.4.14",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.14",
+  "notes": "HI-TOP Hub v0.4.14",
+  "published": "2026-10-14",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.13/app-setup-0.4.13.exe",
-    "sha256": "2a5b6ae408a0d1af32d754edc0ae7b4723074df61a236166977dc6b5dd24bd2e",
-    "size": 180408855
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.14/app-setup-0.4.14.exe",
+    "sha256": "0865b66839616af42073b9bde76510b81c552ab7efd97daec96b1808a0927bbe",
+    "size": 180561168
   }
 }
