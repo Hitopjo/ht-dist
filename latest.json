@@ -1,11 +1,11 @@
 {
-  "version": "0.4.14",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.14",
-  "notes": "HI-TOP Hub v0.4.14",
-  "published": "2026-10-14",
+  "version": "0.4.15",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.15",
+  "notes": "HI-TOP Hub v0.4.15",
+  "published": "2026-10-20",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.14/app-setup-0.4.14.exe",
-    "sha256": "0865b66839616af42073b9bde76510b81c552ab7efd97daec96b1808a0927bbe",
-    "size": 180561168
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.15/app-setup-0.4.15.exe",
+    "sha256": "1f5aca5d21459c7ed36bf0339c7661d167630ddbeac06782c91ec5ce533df78a",
+    "size": 183764958
   }
 }
