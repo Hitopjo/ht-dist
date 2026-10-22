@@ -1,11 +1,11 @@
 {
-  "version": "0.4.18",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.18",
-  "notes": "Workspaces: a role can work through the spare-parts store or the maintenance workplace without the table tabs. Removed automations disappear from the list. Role permissions: a top row for groups, reach, conflicts and changes.",
+  "version": "0.4.19",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.19",
+  "notes": "Batch operations: tick rows with shift+click ranges, whole groups or Ctrl+A; the ticked rows' actions float in a pill at the bottom of the table; delete many assets, POs, spare parts or waiting request lines at once. Also label printing, spare-parts receiving and employee picker fixes.",
   "published": "2026-10-22",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.18/app-setup-0.4.18.exe",
-    "sha256": "1a346dcc173fe6f4f9f2a3dcdb231e7fa67d3b054d1dde8f9f07c4c0c0f3c311",
-    "size": 185341300
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.19/app-setup-0.4.19.exe",
+    "sha256": "803794a54e1d8a87e897bcc8e2e7e1d325fa1664517b87e3c487039249933659",
+    "size": 185376610
   }
 }
