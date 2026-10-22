@@ -1,11 +1,11 @@
 {
-  "version": "0.4.16",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.16",
-  "notes": "HI-TOP Hub v0.4.16",
-  "published": "2026-10-21",
+  "version": "0.4.17",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.17",
+  "notes": "Store workplace and the new app-wide look; maintenance workplace and preventive maintenance; access by actions only.",
+  "published": "2026-10-22",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.16/app-setup-0.4.16.exe",
-    "sha256": "9ea92c8c6e4a0804193f48d55f0d30ff8b2cf4d4b65e6757ef3f5d984307baf0",
-    "size": 185117098
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.17/app-setup-0.4.17.exe",
+    "sha256": "0bc21558f7a523f6bb6e38dd1e3398f882baf11a7bc3615baf89bb537f3af59a",
+    "size": 185319246
   }
 }
