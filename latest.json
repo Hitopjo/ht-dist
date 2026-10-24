@@ -1,11 +1,11 @@
 {
-  "version": "0.4.19",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.19",
-  "notes": "Batch operations: tick rows with shift+click ranges, whole groups or Ctrl+A; the ticked rows' actions float in a pill at the bottom of the table; delete many assets, POs, spare parts or waiting request lines at once. Also label printing, spare-parts receiving and employee picker fixes.",
-  "published": "2026-10-22",
+  "version": "0.4.20",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.20",
+  "notes": "Dialogs no longer flicker: in the desktop app they dim the page behind them without blurring it.",
+  "published": "2026-10-24",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.19/app-setup-0.4.19.exe",
-    "sha256": "803794a54e1d8a87e897bcc8e2e7e1d325fa1664517b87e3c487039249933659",
-    "size": 185376610
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.20/app-setup-0.4.20.exe",
+    "sha256": "4fa4a9353ef7c8fc69aa244b423b4a6a5a967df6a79917139647b40a71fe2ebd",
+    "size": 185090942
   }
 }
