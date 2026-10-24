@@ -1,11 +1,11 @@
 {
-  "version": "0.4.20",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.20",
-  "notes": "Dialogs no longer flicker: in the desktop app they dim the page behind them without blurring it.",
+  "version": "0.4.21",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.21",
+  "notes": "Records show up right after signing in on a PC another user used before; spare store phone layout tidied",
   "published": "2026-10-24",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.20/app-setup-0.4.20.exe",
-    "sha256": "4fa4a9353ef7c8fc69aa244b423b4a6a5a967df6a79917139647b40a71fe2ebd",
-    "size": 185090942
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.21/app-setup-0.4.21.exe",
+    "sha256": "5212db5bdf5ec3a5e0a9543c35c66258bf9e2e47c42ddc0e582bce28da7850fe",
+    "size": 185092561
   }
 }
