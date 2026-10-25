@@ -1,11 +1,11 @@
 {
-  "version": "0.4.23",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.23",
-  "notes": "شؤون الموظفين: صفحة الموظفين والجوازات والتصاريح والسكن والكهرباء؛ لا يمكن اختيار موظف انتهت خدمته؛ سجل الأصول",
+  "version": "0.4.24",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.24",
+  "notes": "سجل الأصول الجديد: أنواع الأصول ومواصفاتها، إضافة وتعديل الأصول، درج الأصل مع القالب الحالي وساعات التشغيل وقراءات العدّاد، وصفحة إعداد الأصول",
   "published": "2026-10-25",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.23/app-setup-0.4.23.exe",
-    "sha256": "ff464cbeac09cd6b6ff0539356985da83a287583bc408928920b8cfc92e68d2a",
-    "size": 185537068
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.24/app-setup-0.4.24.exe",
+    "sha256": "088d096fa825f43c2d1a5a27e50388665a0a11f9f74cd94dc9417aeaacf0c214",
+    "size": 185537045
   }
 }
