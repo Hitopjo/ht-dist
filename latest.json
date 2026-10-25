@@ -1,11 +1,11 @@
 {
-  "version": "0.4.22",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.22",
-  "notes": "دليل القطع (أنواع وخصائص واعتماد ودمج القطع)، «لم أجدها»، تصفّح القطع بالصور، شريط مساحات العمل الجديد، حالات الصيانة الجديدة، وأدوات تجهيز المستودع",
+  "version": "0.4.23",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.23",
+  "notes": "شؤون الموظفين: صفحة الموظفين والجوازات والتصاريح والسكن والكهرباء؛ لا يمكن اختيار موظف انتهت خدمته؛ سجل الأصول",
   "published": "2026-10-25",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.22/app-setup-0.4.22.exe",
-    "sha256": "26cb8ad70cfec2184961d21697c86e58e24400b3319d1a073820b9140a310412",
-    "size": 185316359
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.23/app-setup-0.4.23.exe",
+    "sha256": "ff464cbeac09cd6b6ff0539356985da83a287583bc408928920b8cfc92e68d2a",
+    "size": 185537068
   }
 }
