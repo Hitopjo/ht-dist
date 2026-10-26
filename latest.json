@@ -1,11 +1,11 @@
 {
-  "version": "0.4.26",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.26",
-  "notes": "Fixes after the switch to the hub: POs with a delivery date, offers with an expiry date and SABER certificates save again; Settings Sync now works; invoice amounts and wizard weights are rounded to what is stored; new offers are assigned to their creator; serial numbers continue on the hub; maintenance hours, minimum quantities and PM fixes.",
+  "version": "0.4.27",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.27",
+  "notes": "إعادة إنشاء ملفات PDF من قائمة الفاتورة، ووقت المسح في جدول الطبالي، وفتح ملفات PDF أسرع عند ضعف الاتصال، وحماية من ملفات PDF الناقصة.",
   "published": "2026-10-26",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.26/app-setup-0.4.26.exe",
-    "sha256": "cdc91bf68d0297474ae8c3da5f9792efbe85b7e818d0a7ecca2d8914b9867d6f",
-    "size": 185540594
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.27/app-setup-0.4.27.exe",
+    "sha256": "53cad8d9cfc8fb04654a223cec01d1e12ed2d62723f7370472858127d708ed25",
+    "size": 185543944
   }
 }
