@@ -1,11 +1,11 @@
 {
-  "version": "0.4.28",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.28",
-  "notes": "Fixes from the switch to hub-owned tables: remove weight works (refused while products use it), unticking a mark's last group is refused up front, a new colour needs its English name, a price override in the same invoice save is kept, invoice and offer edits with more than 100 lines, the warehouse and batch drawers show each pallet's scan, SmartSuite checklists show, deletes of invoices, offers and spare requests take their lines, the replica recovers from a sign-in hiccup.",
+  "version": "0.4.29",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.29",
+  "notes": "Retrying an invoice edit after a failed save no longer says it changed since you opened it; invoice and offer edits load their lines faster; list pages no longer have a refresh button (lists update by themselves).",
   "published": "2026-10-26",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.28/app-setup-0.4.28.exe",
-    "sha256": "2d565ad197d440da6991a40ff7df6ca09277b8dcf0a8f604b26c92e92d392305",
-    "size": 185550915
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.29/app-setup-0.4.29.exe",
+    "sha256": "16a04fd0bcbd7a9989b3a9f04df542f349b54930ae0de2ab4e0ed79dea1b174f",
+    "size": 185550705
   }
 }
