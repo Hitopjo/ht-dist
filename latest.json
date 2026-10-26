@@ -1,11 +1,11 @@
 {
-  "version": "0.4.27",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.27",
-  "notes": "إعادة إنشاء ملفات PDF من قائمة الفاتورة، ووقت المسح في جدول الطبالي، وفتح ملفات PDF أسرع عند ضعف الاتصال، وحماية من ملفات PDF الناقصة.",
+  "version": "0.4.28",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.28",
+  "notes": "Fixes from the switch to hub-owned tables: remove weight works (refused while products use it), unticking a mark's last group is refused up front, a new colour needs its English name, a price override in the same invoice save is kept, invoice and offer edits with more than 100 lines, the warehouse and batch drawers show each pallet's scan, SmartSuite checklists show, deletes of invoices, offers and spare requests take their lines, the replica recovers from a sign-in hiccup.",
   "published": "2026-10-26",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.27/app-setup-0.4.27.exe",
-    "sha256": "53cad8d9cfc8fb04654a223cec01d1e12ed2d62723f7370472858127d708ed25",
-    "size": 185543944
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.28/app-setup-0.4.28.exe",
+    "sha256": "2d565ad197d440da6991a40ff7df6ca09277b8dcf0a8f604b26c92e92d392305",
+    "size": 185550915
   }
 }
