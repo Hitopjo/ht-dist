@@ -1,11 +1,11 @@
 {
-  "version": "0.4.24",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.24",
-  "notes": "سجل الأصول الجديد: أنواع الأصول ومواصفاتها، إضافة وتعديل الأصول، درج الأصل مع القالب الحالي وساعات التشغيل وقراءات العدّاد، وصفحة إعداد الأصول",
-  "published": "2026-10-25",
+  "version": "0.4.25",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.25",
+  "notes": "إنشاء أوامر التصنيع يعمل مجدداً، وأمر التصنيع الجديد يظهر في طلب الشراء. Generate WO works again, and a new work order shows on its PO.",
+  "published": "2026-10-26",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.24/app-setup-0.4.24.exe",
-    "sha256": "088d096fa825f43c2d1a5a27e50388665a0a11f9f74cd94dc9417aeaacf0c214",
-    "size": 185537045
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.25/app-setup-0.4.25.exe",
+    "sha256": "e7c9bbcb8a195816db0482e43f774246af05c5393f7695521bcbe8920487672c",
+    "size": 185537720
   }
 }
