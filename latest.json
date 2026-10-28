@@ -1,11 +1,11 @@
 {
-  "version": "0.4.32",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.32",
-  "notes": "Product names show logo, cliche, transparent line, cap logo and insert; race fixes; field identity groundwork (wire v2, inert); hub write and recompute improvements",
-  "published": "2026-10-28",
+  "version": "0.4.33",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.33",
+  "notes": "Option keys: status, PO, maintenance, HR and invoice settings read option values in either form, ready for the readable option keys; labels in Arabic and English; Generate WO duplicate guards fixed.",
+  "published": "2026-10-29",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.32/app-setup-0.4.32.exe",
-    "sha256": "e23a493a98234bfe31bcc789cc740054cf320de7feeb52a8dc6c962c82d59a0a",
-    "size": 186366665
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.33/app-setup-0.4.33.exe",
+    "sha256": "c37bb5f814adc08643f1647797e13d0355c354d2e62523e31f2c26d380176541",
+    "size": 186406107
   }
 }
