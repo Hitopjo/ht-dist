@@ -1,11 +1,11 @@
 {
-  "version": "0.4.30",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.30",
-  "notes": "Customers: country > city > area pickers from a place library, both languages saved; customer type follows the country (Jordan local, else export). The address fields are now العنوان. PDF country folders ignore the hamza; English invoices' city override reaches the certificate of origin in Arabic for new cities.",
-  "published": "2026-10-27",
+  "version": "0.4.31",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.31",
+  "notes": "Product naming rules (editable code/Arabic/English names, per-product overrides, frozen names on invoice and offer lines), products matched by id instead of name, race-condition fixes",
+  "published": "2026-10-28",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.30/app-setup-0.4.30.exe",
-    "sha256": "a0cb02b230cc90c499b186708a9963802b5415aec4edb00b5e02e2ddbdee4c5e",
-    "size": 186089603
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.31/app-setup-0.4.31.exe",
+    "sha256": "be6267be9b4f17fe4c5e5858cbac44a5ef3747404f048d9b842a25f06746014e",
+    "size": 186246325
   }
 }
