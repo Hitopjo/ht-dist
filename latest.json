@@ -1,11 +1,11 @@
 {
-  "version": "0.4.34",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.34",
-  "notes": "إصلاح: إنشاء أوامر التشغيل (أمر تشغيل للمستودع وزر إنشاء أمر التشغيل) كان يفشل",
+  "version": "0.4.35",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.35",
+  "notes": "Notifications on this PC: new notifications now show as Windows notifications from the tray icon, also while the window is closed. Closing the window keeps the app running next to the clock (choose Quit from the tray icon to close it), and the app starts with Windows (Settings > Notifications to turn it off). Price offers now count on their own numbers.\n\nالإشعارات على هذا الجهاز: تظهر الإشعارات الجديدة الآن كإشعارات ويندوز من أيقونة التطبيق بجانب الساعة، حتى والنافذة مغلقة. إغلاق النافذة يبقي التطبيق يعمل في الخلفية (اختر إنهاء من أيقونته لإغلاقه)، ويبدأ التطبيق مع تشغيل ويندوز (يمكن إيقاف ذلك من الإعدادات > الإشعارات). عروض الأسعار لها الآن ترقيمها الخاص.",
   "published": "2026-10-29",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.34/app-setup-0.4.34.exe",
-    "sha256": "d517ac08bbf15c474e6b540d256400fef4739f098c119dfe89cbabec08e76ec2",
-    "size": 186406626
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.35/app-setup-0.4.35.exe",
+    "sha256": "82e49c1f5655606e11db6ec612ea3436a9e6f4b7667b659db4c1b14129d1e9ec",
+    "size": 186472449
   }
 }
