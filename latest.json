@@ -1,11 +1,11 @@
 {
-  "version": "0.4.37",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.37",
-  "notes": "Faster saves: new exit documents, work orders and scanned pallets no longer wait for extra steps.",
+  "version": "0.4.38",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.38",
+  "notes": "Materials catalogue and product BOM templates, for admins for now.\n\nكتالوج المواد وقوالب مكونات المنتجات، للمسؤولين حالياً.",
   "published": "2026-10-31",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.37/app-setup-0.4.37.exe",
-    "sha256": "9824af0be51dc71f25f4a84d7a61f68d19468c86376113aec502e16afb4f5b3f",
-    "size": 186673722
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.38/app-setup-0.4.38.exe",
+    "sha256": "e4c0922cebe54966ce959cf93c62afe61e1bf849afa9418a3a7ce8cf93d372f0",
+    "size": 186833820
   }
 }
