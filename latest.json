@@ -1,11 +1,11 @@
 {
-  "version": "0.4.36",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.36",
-  "notes": "Arabic and English: every screen in both languages, chosen per user in Settings; the tray, notifications, update and installer texts follow it. Approved Arabic wording, English names for machine sections and the spare-parts catalogue.",
-  "published": "2026-10-29",
+  "version": "0.4.37",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.37",
+  "notes": "Faster saves: new exit documents, work orders and scanned pallets no longer wait for extra steps.",
+  "published": "2026-10-31",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.36/app-setup-0.4.36.exe",
-    "sha256": "c40d6697c46544076a4c8df55b03cf9d5514c710c1fbffe3057ae56332cda681",
-    "size": 186662696
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.37/app-setup-0.4.37.exe",
+    "sha256": "9824af0be51dc71f25f4a84d7a61f68d19468c86376113aec502e16afb4f5b3f",
+    "size": 186673722
   }
 }
