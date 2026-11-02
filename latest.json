@@ -1,11 +1,11 @@
 {
-  "version": "0.4.38",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.38",
-  "notes": "Materials catalogue and product BOM templates, for admins for now.\n\nكتالوج المواد وقوالب مكونات المنتجات، للمسؤولين حالياً.",
-  "published": "2026-10-31",
+  "version": "0.4.39",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.39",
+  "notes": "PO headers: one PO with many lines, and exit documents with many lines. Plain caps have no (بدون حشوة) name. Group settings have a takes-inserts checkbox. Invoice and packing list PDFs print the country, city and HS code correctly. Saber add and renew keep the expiry date. Faster quit, and the app repairs an interrupted update.",
+  "published": "2026-11-02",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.38/app-setup-0.4.38.exe",
-    "sha256": "e4c0922cebe54966ce959cf93c62afe61e1bf849afa9418a3a7ce8cf93d372f0",
-    "size": 186833820
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.39/app-setup-0.4.39.exe",
+    "sha256": "426928504f6f1d18bc16de496d25790f1c4909c120b588d39f3e4b2850206942",
+    "size": 187093264
   }
 }
