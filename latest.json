@@ -1,11 +1,11 @@
 {
-  "version": "0.4.40",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.40",
-  "notes": "Injection recording and cap stock, multi-step orders (hose), warehouse stock screens, PO customer change, exit edit fix.",
-  "published": "2026-11-03",
+  "version": "0.4.41",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.41",
+  "notes": "Place pickers for suppliers, HR and customers; customer products; HR document folders; printing batches; COO English city; replica fix.",
+  "published": "2026-11-04",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.40/app-setup-0.4.40.exe",
-    "sha256": "c449ef51e386fb2dbd49d6ce513b5dab5942c0f05a88da93c57867b7dcee11b2",
-    "size": 187340644
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.41/app-setup-0.4.41.exe",
+    "sha256": "063a34ac12bd8743558449cc4b3798fb4872c2602c219f140a4df06acf012e95",
+    "size": 187514082
   }
 }
