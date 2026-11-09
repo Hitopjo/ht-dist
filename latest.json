@@ -1,11 +1,11 @@
 {
-  "version": "0.4.42",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.42",
-  "notes": "Employee IBAN and bank name; spare-part barcode check; dialogs above linked drawers; catalog English names; employee drawer document buttons.",
-  "published": "2026-11-05",
+  "version": "0.4.43",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.43",
+  "notes": "Phase 6: people screens and checks read the HR person table the hub names; preparation for merging the roster into HR.",
+  "published": "2026-11-09",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.42/app-setup-0.4.42.exe",
-    "sha256": "801890e118a33fff6fa60a68c70da0e68ef498ac2bd7d6ef16f860723cbd149b",
-    "size": 187516673
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.43/app-setup-0.4.43.exe",
+    "sha256": "825b050348cba471d21a5da3fb34cb2950c176a18354d34923aa9e18032195bc",
+    "size": 187578483
   }
 }
