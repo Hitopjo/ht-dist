@@ -1,11 +1,11 @@
 {
-  "version": "0.4.43",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.43",
-  "notes": "Phase 6: people screens and checks read the HR person table the hub names; preparation for merging the roster into HR.",
+  "version": "0.4.44",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.44",
+  "notes": "تغيير منتج سطر أمر شراء مرتبط بأمر تصنيع يظهر تحذيراً قبل الحفظ؛ ربط الموظفين بجدول الموارد البشرية؛ تحذير عند صرف قطع غيار أكثر من المخزون",
   "published": "2026-11-09",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.43/app-setup-0.4.43.exe",
-    "sha256": "825b050348cba471d21a5da3fb34cb2950c176a18354d34923aa9e18032195bc",
-    "size": 187578483
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.44/app-setup-0.4.44.exe",
+    "sha256": "e05e49f323295e0c6312a93087e8ca0c7a205fe6eff63a56ac12a5bb79f41951",
+    "size": 187602658
   }
 }
