@@ -1,11 +1,11 @@
 {
-  "version": "0.4.44",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.44",
-  "notes": "تغيير منتج سطر أمر شراء مرتبط بأمر تصنيع يظهر تحذيراً قبل الحفظ؛ ربط الموظفين بجدول الموارد البشرية؛ تحذير عند صرف قطع غيار أكثر من المخزون",
+  "version": "0.4.45",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.45",
+  "notes": "أوامر التصنيع والدفعات تعرض اسم العميل المختصر؛ جدول الخلطات في نافذة الدفعة",
   "published": "2026-11-09",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.44/app-setup-0.4.44.exe",
-    "sha256": "e05e49f323295e0c6312a93087e8ca0c7a205fe6eff63a56ac12a5bb79f41951",
-    "size": 187602658
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.45/app-setup-0.4.45.exe",
+    "sha256": "6edc5f2f51f6eef50351bf782045072a78c2fc4a7ba42aaee547d0cc68eb911e",
+    "size": 187605071
   }
 }
