@@ -1,11 +1,11 @@
 {
-  "version": "0.4.45",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.45",
-  "notes": "أوامر التصنيع والدفعات تعرض اسم العميل المختصر؛ جدول الخلطات في نافذة الدفعة",
-  "published": "2026-11-09",
+  "version": "0.4.46",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.46",
+  "notes": "تحسينات داخلية: أُزيل آخر ما تبقى من SmartSuite من التطبيق. / Internal: the last SmartSuite code is removed from the app.",
+  "published": "2026-11-10",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.45/app-setup-0.4.45.exe",
-    "sha256": "6edc5f2f51f6eef50351bf782045072a78c2fc4a7ba42aaee547d0cc68eb911e",
-    "size": 187605071
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.46/app-setup-0.4.46.exe",
+    "sha256": "2277e0422e862dc3e385563ddad47c742f0544114e33952a8839af8fe3672fa9",
+    "size": 188134274
   }
 }
