@@ -1,11 +1,11 @@
 {
-  "version": "0.4.46",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.46",
-  "notes": "تحسينات داخلية: أُزيل آخر ما تبقى من SmartSuite من التطبيق. / Internal: the last SmartSuite code is removed from the app.",
-  "published": "2026-11-10",
+  "version": "0.4.47",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.47",
+  "notes": "تحسين داخلي: التطبيق يقرأ البيانات بالصيغة الجديدة (يعيد التحميل مرة واحدة عند أول فتح). / Internal: the app reads the new data format (one full reload at first start).",
+  "published": "2026-11-11",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.46/app-setup-0.4.46.exe",
-    "sha256": "2277e0422e862dc3e385563ddad47c742f0544114e33952a8839af8fe3672fa9",
-    "size": 188134274
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.47/app-setup-0.4.47.exe",
+    "sha256": "1793a1cfb8681769eea4726c07424fa42adcdcca8075011491b093a0e4232123",
+    "size": 188133159
   }
 }
