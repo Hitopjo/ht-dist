@@ -1,11 +1,11 @@
 {
-  "version": "0.4.47",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.47",
-  "notes": "تحسين داخلي: التطبيق يقرأ البيانات بالصيغة الجديدة (يعيد التحميل مرة واحدة عند أول فتح). / Internal: the app reads the new data format (one full reload at first start).",
+  "version": "0.4.48",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.48",
+  "notes": "ليبلات IML: جدول واحد لكل ليبل مع الكميات والاستلامات وتاريخ الانتهاء. اسم الليبل يظهر كاملاً على المنتج في درج أمر الشراء، وقائمة الليبلات في البند تعرض الحالة والمتبقي والصورة. نماذج يمكن تصغيرها.",
   "published": "2026-11-11",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.47/app-setup-0.4.47.exe",
-    "sha256": "1793a1cfb8681769eea4726c07424fa42adcdcca8075011491b093a0e4232123",
-    "size": 188133159
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.48/app-setup-0.4.48.exe",
+    "sha256": "1ece94026739a43f12b1d08388868a2a4d7d7d9e70b17fcecd08d82ee6208dbb",
+    "size": 188205251
   }
 }
