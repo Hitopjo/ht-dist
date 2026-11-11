@@ -1,0 +1,8 @@
+{
+  "version_name": "1.6.0",
+  "version_code": 44,
+  "url": "https://github.com/Hitopjo/ht-dist/releases/download/labels-v1.6.0/LabelPrinting-v1.6.0-release.apk",
+  "sha256": "a179721601da25547c9ee2a9f9c880d488ab21f319ee12da259340cdade0dad4",
+  "notes": "طباعة الملصقات 1.6.0: قراءة البيانات بالصيغة الجديدة من HiTop، وتحديث التطبيق من داخله. / Reads HiTop data in the new format; in-app updates.",
+  "published_at": "2026-11-11T09:52:21Z"
+}
