@@ -1,11 +1,11 @@
 {
-  "version": "0.4.48",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.48",
-  "notes": "ليبلات IML: جدول واحد لكل ليبل مع الكميات والاستلامات وتاريخ الانتهاء. اسم الليبل يظهر كاملاً على المنتج في درج أمر الشراء، وقائمة الليبلات في البند تعرض الحالة والمتبقي والصورة. نماذج يمكن تصغيرها.",
-  "published": "2026-11-11",
+  "version": "0.4.49",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.49",
+  "notes": "Fixes: saving a new product, statuses in exit documents and price offers, customer prices in the invoice wizard, line breaks in PDF notes, and other grids and forms that showed blanks.",
+  "published": "2026-11-12",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.48/app-setup-0.4.48.exe",
-    "sha256": "1ece94026739a43f12b1d08388868a2a4d7d7d9e70b17fcecd08d82ee6208dbb",
-    "size": 188205251
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.49/app-setup-0.4.49.exe",
+    "sha256": "d83d5ed9d05d79c2460b698d2768fbeb71ae541328144c243119b8de63aefdb7",
+    "size": 188219549
   }
 }
