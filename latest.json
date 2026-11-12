@@ -1,11 +1,11 @@
 {
-  "version": "0.4.50",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.50",
-  "notes": "Fixes: statuses and dates in offers, saber, exit documents and other grids; customer phones; invoice and price stamps.",
+  "version": "0.4.51",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.51",
+  "notes": "عرض السعر: نافذة التعديل تعرض المنتجات من جديد، وإعادة إنشاء PDF تطبع المنتجات",
   "published": "2026-11-12",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.50/app-setup-0.4.50.exe",
-    "sha256": "f5a0e4e588c6d2d0198e1c01d53f4d2d394e14385c210f30ae98ecd5e598bb5e",
-    "size": 188220493
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.51/app-setup-0.4.51.exe",
+    "sha256": "e9c2b8b4fb5c38f4ed828e1db0a2aedbcd623448977e737dfb69a974de66d0b2",
+    "size": 188220382
   }
 }
