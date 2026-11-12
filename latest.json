@@ -1,11 +1,11 @@
 {
-  "version": "0.4.49",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.49",
-  "notes": "Fixes: saving a new product, statuses in exit documents and price offers, customer prices in the invoice wizard, line breaks in PDF notes, and other grids and forms that showed blanks.",
+  "version": "0.4.50",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.50",
+  "notes": "Fixes: statuses and dates in offers, saber, exit documents and other grids; customer phones; invoice and price stamps.",
   "published": "2026-11-12",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.49/app-setup-0.4.49.exe",
-    "sha256": "d83d5ed9d05d79c2460b698d2768fbeb71ae541328144c243119b8de63aefdb7",
-    "size": 188219549
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.50/app-setup-0.4.50.exe",
+    "sha256": "f5a0e4e588c6d2d0198e1c01d53f4d2d394e14385c210f30ae98ecd5e598bb5e",
+    "size": 188220493
   }
 }
