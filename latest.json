@@ -1,11 +1,11 @@
 {
-  "version": "0.4.53",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.53",
-  "notes": "Wire 1 removed: the app reads every record in the hub's own format; works with the hub of 14 Nov.",
+  "version": "0.4.54",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.54",
+  "notes": "مساحة أوامر التصنيع الجديدة (لوحة الماكينات، الدور، الإعدادات)، ومستندات العملاء، وإصلاح نقل مجلد العميل.",
   "published": "2026-11-14",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.53/app-setup-0.4.53.exe",
-    "sha256": "fd6f6bf73de41046c01902beb111581ce5a256127c7e82623b5aa61f5838d660",
-    "size": 187994687
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.54/app-setup-0.4.54.exe",
+    "sha256": "dad9bb26e61903f1bf2fff69e0db8770818a31bdf10758038adea2ca928884e3",
+    "size": 188113663
   }
 }
