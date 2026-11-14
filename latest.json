@@ -1,11 +1,11 @@
 {
-  "version": "0.4.52",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.52",
-  "notes": "Price offers: long notes no longer push the products out of the drawer. Document folders: a customer's country folder is its Arabic name again (fixes the COO not finding the invoice PDF).",
+  "version": "0.4.53",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.53",
+  "notes": "Wire 1 removed: the app reads every record in the hub's own format; works with the hub of 14 Nov.",
   "published": "2026-11-14",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.52/app-setup-0.4.52.exe",
-    "sha256": "1c33d0d30fc1ceece1b8351cd3d8a700c8368782b34e10f84e98e9f61421d2ba",
-    "size": 188224231
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.53/app-setup-0.4.53.exe",
+    "sha256": "fd6f6bf73de41046c01902beb111581ce5a256127c7e82623b5aa61f5838d660",
+    "size": 187994687
   }
 }
