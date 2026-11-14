@@ -1,11 +1,11 @@
 {
-  "version": "0.4.54",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.54",
-  "notes": "مساحة أوامر التصنيع الجديدة (لوحة الماكينات، الدور، الإعدادات)، ومستندات العملاء، وإصلاح نقل مجلد العميل.",
+  "version": "0.4.55",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.55",
+  "notes": "تمديد أمر التصنيع نفسه عند (إكمال الطبلية) و(متابعة نفس المنتج)، وظهور ماكينة كل دفعة في أمر التصنيع، وبقاء أمر التصنيع على ماكينته.",
   "published": "2026-11-14",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.54/app-setup-0.4.54.exe",
-    "sha256": "dad9bb26e61903f1bf2fff69e0db8770818a31bdf10758038adea2ca928884e3",
-    "size": 188113663
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.55/app-setup-0.4.55.exe",
+    "sha256": "8bc62b13e7dad3b4eb8937c281eba8cf2b19cc30a25797afbdc86b339754483a",
+    "size": 188116584
   }
 }
