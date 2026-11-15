@@ -1,11 +1,11 @@
 {
-  "version": "0.4.55",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.55",
-  "notes": "تمديد أمر التصنيع نفسه عند (إكمال الطبلية) و(متابعة نفس المنتج)، وظهور ماكينة كل دفعة في أمر التصنيع، وبقاء أمر التصنيع على ماكينته.",
-  "published": "2026-11-14",
+  "version": "0.4.56",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.56",
+  "notes": "HS code, product shape and cap ratio print again on packing lists and invoices; lookups of dropdowns show their labels",
+  "published": "2026-11-15",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.55/app-setup-0.4.55.exe",
-    "sha256": "8bc62b13e7dad3b4eb8937c281eba8cf2b19cc30a25797afbdc86b339754483a",
-    "size": 188116584
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.56/app-setup-0.4.56.exe",
+    "sha256": "d1bb0a51e40d9368b45f46500eea3193b367be14e230b73beb0f91a9d21b6d1c",
+    "size": 188118467
   }
 }
