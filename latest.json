@@ -1,11 +1,11 @@
 {
-  "version": "0.4.58",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.58",
-  "notes": "HI-TOP Hub v0.4.58: fixes the start-up error of 0.4.57 (a missing kits_cases.json). Every build now starts itself before it is published.",
+  "version": "0.4.59",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.59",
+  "notes": "HI-TOP Hub v0.4.59: moulds get rule-built codes and names (naming rules, short codes and a review to approve them in asset setup); cycle-time standards and a cycle time for each run; the CRM sales desk; the machines planning board on the work-orders desk; mould-change check lists; a printed PO line can type a new print design; invoice and offer prices with 3 or more decimals print in full.",
   "published": "2026-11-16",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.58/app-setup-0.4.58.exe",
-    "sha256": "2e7ff466e4ce7e53613afb3c3686b7d824ea6330b0bcebabac29ded98ab4f164",
-    "size": 188263657
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.59/app-setup-0.4.59.exe",
+    "sha256": "6f04968c1aa0cd5b745dd75be1af3b773cd71a80dd0cdc1d49492a80b5bada81",
+    "size": 188654230
   }
 }
