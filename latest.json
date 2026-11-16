@@ -1,11 +1,11 @@
 {
-  "version": "0.4.57",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.57",
-  "notes": "Mould change orders v2: one order per machine change (moulds, head kit, logo pieces, material stamp), prep and change steps, supervisor pause and checks, live timer, per-tech bonus and month close; head kits replace die/core sizes.",
-  "published": "2026-11-15",
+  "version": "0.4.58",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.58",
+  "notes": "HI-TOP Hub v0.4.58: fixes the start-up error of 0.4.57 (a missing kits_cases.json). Every build now starts itself before it is published.",
+  "published": "2026-11-16",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.57/app-setup-0.4.57.exe",
-    "sha256": "4b2a466ee56dcb0f96acb0627dff22eb09c14042150f9e007d32b62274104bc8",
-    "size": 188241095
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.58/app-setup-0.4.58.exe",
+    "sha256": "2e7ff466e4ce7e53613afb3c3686b7d824ea6330b0bcebabac29ded98ab4f164",
+    "size": 188263657
   }
 }
