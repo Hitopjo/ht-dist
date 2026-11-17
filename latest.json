@@ -1,11 +1,11 @@
 {
-  "version": "0.4.59",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.59",
-  "notes": "HI-TOP Hub v0.4.59: moulds get rule-built codes and names (naming rules, short codes and a review to approve them in asset setup); cycle-time standards and a cycle time for each run; the CRM sales desk; the machines planning board on the work-orders desk; mould-change check lists; a printed PO line can type a new print design; invoice and offer prices with 3 or more decimals print in full.",
-  "published": "2026-11-16",
+  "version": "0.4.60",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.60",
+  "notes": "HI-TOP Hub v0.4.60: the Google Maps key in CRM setup is hidden once saved and the CRM map uses it; the batch start and edit dialogs take a cycle time, prefilled from the standard; on the machines board, order links open in place, card actions sit behind a ⋯ menu and a dragged card keeps its height; invoices and offers print prices and amounts with 3 decimals at most; stored figures keep 6.",
+  "published": "2026-11-17",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.59/app-setup-0.4.59.exe",
-    "sha256": "6f04968c1aa0cd5b745dd75be1af3b773cd71a80dd0cdc1d49492a80b5bada81",
-    "size": 188654230
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.60/app-setup-0.4.60.exe",
+    "sha256": "3405218e5921cfd88521ebd5ad9dc7dc478e46d6a4523051e720a26ca8d3a8a6",
+    "size": 188663178
   }
 }
