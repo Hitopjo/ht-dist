@@ -1,11 +1,11 @@
 {
-  "version": "0.4.61",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.61",
-  "notes": "HI-TOP Hub v0.4.61: a blowing, injection or printing batch can be cancelled (and the cancel undone), and more drawers have a delete button; the sales desk gains customer accounts (credit limit, aging, blacklist and hold), leads with a pipeline and sales targets; HR travel trips with a travel view; the parts catalogue is a tab of the spare-parts store; calls and notes in the sales desk save again, customer sheet cards below the fold show again, and the batch mixes table scrolls sideways.",
-  "published": "2026-11-19",
+  "version": "0.4.62",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.62",
+  "notes": "HI-TOP Hub v0.4.62: print PDFs and photos straight from the app and open them in its preview; the production desk; commission statements for two months can be approved and paid as one; editable footer notes on documents; one serial format for batches and work orders; customer prices get a serial number and any price can be deleted.",
+  "published": "2026-11-21",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.61/app-setup-0.4.61.exe",
-    "sha256": "f07ea954f6fbe5cc5f9a896007edc45fe99dfdb4914ac8997e5e5fae1343a2cb",
-    "size": 188885192
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.62/app-setup-0.4.62.exe",
+    "sha256": "58b1fe0f85edd75e969f472247cda3ba6ae172437eace2fd1b20c97c4eadd3a5",
+    "size": 189067224
   }
 }
