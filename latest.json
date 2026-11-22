@@ -1,11 +1,11 @@
 {
-  "version": "0.4.63",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.63",
-  "notes": "Faster, more reliable saves; pages keep all their columns after a reload; an expired sign-in recovers by itself.",
+  "version": "0.4.64",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.64",
+  "notes": "Caps per bottle now count correctly in invoice combos and in PO and offer lines. Redesigned machine board timeline. Customer pill in record dialogs. Production overview scrolls and machine tiles show the machine number.",
   "published": "2026-11-22",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.63/app-setup-0.4.63.exe",
-    "sha256": "e03324d9a2956df90e02e1e20f5d04766d6e7ecc00981d373037a95f39c3866f",
-    "size": 189070290
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.64/app-setup-0.4.64.exe",
+    "sha256": "162c81141e3ca755e15b491423bca42d0c063cbf13fa55802ca7edbabe2921d8",
+    "size": 189086121
   }
 }
