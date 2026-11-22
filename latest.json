@@ -1,11 +1,11 @@
 {
-  "version": "0.4.64",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.64",
-  "notes": "Caps per bottle now count correctly in invoice combos and in PO and offer lines. Redesigned machine board timeline. Customer pill in record dialogs. Production overview scrolls and machine tiles show the machine number.",
+  "version": "0.4.65",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.65",
+  "notes": "Invoices with the same combo on several lines now keep their manual prices. The spare-part exit employee picker offers all active employees.",
   "published": "2026-11-22",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.64/app-setup-0.4.64.exe",
-    "sha256": "162c81141e3ca755e15b491423bca42d0c063cbf13fa55802ca7edbabe2921d8",
-    "size": 189086121
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.65/app-setup-0.4.65.exe",
+    "sha256": "db42cde0a3129eda2bca53ee6730705d41a90e8528ca7932915fcc315a323cd9",
+    "size": 189085654
   }
 }
