@@ -1,11 +1,11 @@
 {
-  "version": "0.4.65",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.65",
-  "notes": "Invoices with the same combo on several lines now keep their manual prices. The spare-part exit employee picker offers all active employees.",
-  "published": "2026-11-22",
+  "version": "0.4.66",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.66",
+  "notes": "Invoice delivery note without customs clause; production desk overview; spare-store count log; web polish; created and updated dates fix",
+  "published": "2026-11-24",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.65/app-setup-0.4.65.exe",
-    "sha256": "db42cde0a3129eda2bca53ee6730705d41a90e8528ca7932915fcc315a323cd9",
-    "size": 189085654
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.66/app-setup-0.4.66.exe",
+    "sha256": "a891f3af04eb7c41ae07f7249a1b7f5a9282db5b45cfeef233c25a88137f6e2a",
+    "size": 189100544
   }
 }
