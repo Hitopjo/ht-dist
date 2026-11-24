@@ -1,11 +1,11 @@
 {
-  "version": "0.4.66",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.66",
-  "notes": "Invoice delivery note without customs clause; production desk overview; spare-store count log; web polish; created and updated dates fix",
+  "version": "0.4.67",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.67",
+  "notes": "Mould change planning on the machine board; tooling, pieces and kits",
   "published": "2026-11-24",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.66/app-setup-0.4.66.exe",
-    "sha256": "a891f3af04eb7c41ae07f7249a1b7f5a9282db5b45cfeef233c25a88137f6e2a",
-    "size": 189100544
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.67/app-setup-0.4.67.exe",
+    "sha256": "aec463de01cee69fc2bbbd764c40c3317e197746cd41202dfda6e007d20e7178",
+    "size": 189298998
   }
 }
