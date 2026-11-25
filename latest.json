@@ -1,11 +1,11 @@
 {
-  "version": "0.4.67",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.67",
-  "notes": "Mould change planning on the machine board; tooling, pieces and kits",
-  "published": "2026-11-24",
+  "version": "0.4.68",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.68",
+  "notes": "Parts catalogue: holds-parts types, attribute scope, pending part drafts; one low-stock rule; shelf walk corrects stock; old option ids removed",
+  "published": "2026-11-25",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.67/app-setup-0.4.67.exe",
-    "sha256": "aec463de01cee69fc2bbbd764c40c3317e197746cd41202dfda6e007d20e7178",
-    "size": 189298998
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.68/app-setup-0.4.68.exe",
+    "sha256": "009502979c83378753d4e81dd7544b18845e1d0c4785518b461e0894cd71e673",
+    "size": 189290347
   }
 }
