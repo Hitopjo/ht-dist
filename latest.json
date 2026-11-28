@@ -1,11 +1,11 @@
 {
-  "version": "0.4.68",
-  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.68",
-  "notes": "Parts catalogue: holds-parts types, attribute scope, pending part drafts; one low-stock rule; shelf walk corrects stock; old option ids removed",
-  "published": "2026-11-25",
+  "version": "0.4.69",
+  "release_page": "https://github.com/Hitopjo/ht-dist/releases/tag/v0.4.69",
+  "notes": "سجل التغييرات للإعدادات، وقائمة المواد، وقاعدة عدد الأكياس في أوامر العمل",
+  "published": "2026-11-28",
   "windows": {
-    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.68/app-setup-0.4.68.exe",
-    "sha256": "009502979c83378753d4e81dd7544b18845e1d0c4785518b461e0894cd71e673",
-    "size": 189290347
+    "url": "https://github.com/Hitopjo/ht-dist/releases/download/v0.4.69/app-setup-0.4.69.exe",
+    "sha256": "39ff2b7e1f43bdb83758e10df13f3a730d2ec0ee03cf0813e49e3749e0ff34a3",
+    "size": 189357140
   }
 }
